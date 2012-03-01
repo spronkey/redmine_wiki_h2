@@ -1,3 +1,3 @@
-= wiki_h2
+= Redmine Wiki H2 Plugin
 
-Description goes here
+Very basic plugin to override redmine's default wiki view to provide a consistent <h2> at the top of each wiki page containing that page's name.
